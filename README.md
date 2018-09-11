@@ -112,3 +112,7 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 }
+
+
+Done!
+Now the only thing left to do is to edit your code and layout to reflect your application. Let us use mine as an example
